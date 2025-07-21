@@ -11,7 +11,7 @@ This outlines the implementation of on-premises Active Directory within Azure Vi
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
